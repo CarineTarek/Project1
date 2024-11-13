@@ -2,6 +2,11 @@
 
 
 ## Installation 
+we might need to install additional libraries or packages for various reasons
+[Link to Python file](essentials.py)
+
+
+
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install openai==0.28.
 pip install Pillow
