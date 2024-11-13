@@ -3,7 +3,7 @@
 
 ## Installation 
 we might need to install additional libraries or packages for various reasons
-[Link to Python file Initialisation](C:\Users\carin\Downloads\essentials.py)
+[Link to Python file](C:\Users\carin\Downloads\essentials.py)
 
 
 
